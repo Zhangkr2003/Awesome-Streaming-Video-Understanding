@@ -1,4 +1,24 @@
-# Awesome-Streaming-Video-Understanding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<h1 align="center">
+  Awesome-Streaming-Video-Understanding
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+</h1>
+
+<div align="center">
+
+![GitHub Stars](https://img.shields.io/github/stars/sotayang/Awesome-Streaming-Video-Understanding?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/sotayang/Awesome-Streaming-Video-Understanding?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/sotayang/Awesome-Streaming-Video-Understanding)
+![Papers](https://img.shields.io/badge/Papers-100+-blue)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**🤖 Building the Eyes & Mind of J.A.R.V.I.S. — One Frame at a Time**
+<p align="center">
+  🔥 <b>The most comprehensive list</b> of papers, code, and datasets for 
+  <br>real-time, always-on, interactive video AI.
+</p>
+
+</div>
 
 ## **Overview**
 
