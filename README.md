@@ -25,7 +25,7 @@
 
 ## 🔥 News
 
-- **[2026.06]** 🔥🔥🔥 We release our [**Survey**](https://sotayang.github.io/Streaming_Video_Understanding_Survey.pdf) on Streaming Video Understanding! Check it out and give us a ⭐ if you find it helpful!
+- **[2026.06]** 🔥🔥🔥 We release our Survey [**Towards Online Interactors: A Comprehensive Survey on Streaming Video Understanding**](https://sotayang.github.io/Streaming_Video_Understanding_Survey.pdf)! Check it out and give us a ⭐ if you find it helpful!
 
 ## **Overview**
 
