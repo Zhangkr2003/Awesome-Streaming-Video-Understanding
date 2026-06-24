@@ -25,7 +25,7 @@
 
 ## 🔥 News
 
-- **[2026.06]** 🔥🔥🔥 We release our [**Survey**](./Streaming_Video_Understanding_Survey.pdf) on Streaming Video Understanding! Check it out and give us a ⭐ if you find it helpful!
+- **[2026.06]** 🔥🔥🔥 We release our [**Survey**](https://sotayang.github.io/Streaming_Video_Understanding_Survey.pdf) on Streaming Video Understanding! Check it out and give us a ⭐ if you find it helpful!
 
 ## **Overview**
 
@@ -67,6 +67,7 @@ This list serves as a reference for researchers and practitioners exploring the 
   - [🏆 Competitions](#-competitions)
     - [Complete Model List by Release Date](#complete-model-list-by-release-date)
     - [Complete Dataset List by Release Date](#complete-dataset-list-by-release-date)
+  - [📚 Citation](#-citation)
   - [🚀 Contributing](#-contributing)
   - [❤️ Contact](#️-contact)
 
@@ -377,6 +378,22 @@ This list serves as a reference for researchers and practitioners exploring the 
 | [What to Say and When to Say it: Live Fitness Coaching as a Testbed for Situated Interaction](https://arxiv.org/abs/2407.08101)                        | QEVD-FIT-COACH     | 2024/07 | [Link](https://www.qualcomm.com/developer/software/qevd-dataset)    | NeurIPS 2024 |
 
 </details>
+
+## 📚 Citation
+If you find our survey and this repository helpful, please consider citing our work:
+
+```bibtex
+@article{202606.1674,
+	doi = {10.20944/preprints202606.1674.v1},
+	url = {https://doi.org/10.20944/preprints202606.1674.v1},
+	year = 2026,
+	month = {June},
+	publisher = {Preprints},
+	author = {Zhenyu Yang and Kairui Zhang and Qi Liu and Tiancheng Liu and Long Ying and Dizhan Xue and Qibin Hou and Shengsheng Qian and Changsheng Xu},
+	title = {Towards Online Interactors: A Comprehensive Survey on Streaming Video Understanding},
+	journal = {Preprints}
+}
+```
 
 ## 🚀 Contributing  
 We welcome contributions! To add a resource, you can:  
